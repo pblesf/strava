@@ -1,1 +1,25 @@
-# Created by .ignore support plugin (hsz.mobi)
+# Mac OS X
+*.DS_Store
+
+# IntelliJ IDEA
+*.idea*
+*.iml
+*.info
+
+# JMeter
+*.log
+*nohup.out
+
+# Eclipse/STS
+.classpath
+.project
+.settings
+*/bin
+
+# Maven
+target/
+release.properties
+*.bak
+
+# Bamboo
+build-number.txt
